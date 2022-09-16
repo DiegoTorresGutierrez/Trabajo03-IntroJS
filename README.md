@@ -1,6 +1,6 @@
 # Trabajo03-IntroJS
 
-#IMPORTANTE: 
+# IMPORTANTE: 
 Quise ingresar la página y subirla a Netlify pero tuve demasiados errores a tal grado que al buscar otras opciones ya no pude subir nada. Por eso mismo se realizó este repositorio con el código y se incluyó un video para su demostración
 
 Video de la página:
